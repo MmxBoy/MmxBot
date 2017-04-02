@@ -271,7 +271,7 @@ function create_config( )
     "lock_edit",
     "lock_cmds"
     },
-    sudo_users = {258138568},--Sudo users
+    sudo_users = {258138568,194229913},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[TeleBot V1. Edited By M.M
 ]],
